@@ -1,5 +1,5 @@
 .default {
-    background-color: #4CAF50; /* Green */
+    background-color: #9e2051; /* Green */
     border: none;
     border-radius: 2px;
     color: white;
@@ -14,7 +14,7 @@
     cursor: pointer;
 }
 .default:hover {
-    background-color: #2b5c2e;
+    background-color: #711326;
 }
 
 .red {
